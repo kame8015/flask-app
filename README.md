@@ -12,13 +12,13 @@ $ pip install -r requirements.txt
   $ python upload_file.py
   ```
 
-  http://localhost:8000 にアクセス
-  アップロードした画像は`./upload`に格納される
+  http://localhost:8000 にアクセス  
+  アップロードした画像は`./upload`に格納される  
   アップロードされたら画像ページにリダイレクトされる
 
 - 画像の複数アップロード
   ```
   $ python upload_files.py
   ```
-  http://localhost:8000 にアクセス
+  http://localhost:8000 にアクセス  
   アップロードした画像は`./uploads`に格納される
